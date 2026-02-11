@@ -11,7 +11,7 @@ Year: Junior
 
 ## Tech
 Favorite language: C++
-Favorite tool:
+Favorite tool: github
 
 ## Fun
 Fun fact: I am a transfer student
