@@ -10,8 +10,8 @@ Major: Computer Science
 Year: Sophomore
 
 ## Tech
-Favorite language: Spanish
-Favorite tool: ...
+Favorite language: C++
+Favorite tool: github
 
 ## Fun
 Fun fact: I love Spiderman
